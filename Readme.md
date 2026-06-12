@@ -232,6 +232,7 @@ Through this project, I gained practical experience in:
 ## 👨‍💻 Author
 
 **Dev Panchal**
+Computer Science Engineering Student
 
 GitHub: https://github.com/panchaldev900
 
